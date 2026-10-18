@@ -68,7 +68,7 @@ qemuriscv64:
 
 ```bash
 mkdir $PROJECT_DIR
-KAS_WORK_DIR=$PROJECT_DIR
+export KAS_WORK_DIR=$PROJECT_DIR
 kas build meta-sgl/kas/sgl-scarthgap-qemuriscv64.yml
 ```
 
