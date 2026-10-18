@@ -28,7 +28,7 @@ The build is selected by a top-level kas configuration file under `kas/`. The
 file names follow the pattern:
 
 ```
-sgl-<yocto-release>[-spaceros-<distro>][-core]-<machine>.yml
+sgl-<yocto-release>[-spaceros-<release>][-core]-<machine>.yml
 ```
 
 The pieces that compose a configuration live in sub-directories and are pulled
