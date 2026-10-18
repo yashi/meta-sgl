@@ -41,7 +41,7 @@ in via `includes`:
   `qemuarm64`, and `qemux86-64`; hardware targets include `beaglev-fire` and
   others.
 - **Space ROS** (`kas/spaceros/`) — optional layers adding Space ROS on Jazzy.
-  Releases `jazzy-2025.10` and `jazzy-2026.04` are available.
+  Releases `jazzy-2025.10`, `jazzy-2026.04`, and `jazzy-2026.07` are available.
 
 Some examples of ready-made top-level configurations:
 
